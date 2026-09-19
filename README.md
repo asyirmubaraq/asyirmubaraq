@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! I'm Asyir Mubaraq👋
 
 <!--
 **asyirmubaraq/asyirmubaraq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I’m currently learning [**Laravel**](https://laravel.com) Framework
+
+
+
+![happy birthday](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajUzeXFvdTVmdHc0bHVrMThteDVnNWF6NnN2cnNieWR5czliZDE1ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26AHupWKXQDHhgf3q/giphy.gif)
+
+![asyir](img/pixelart%20asyir.jpeg)
+😁😁😁
